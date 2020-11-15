@@ -2,6 +2,9 @@
 
 Primeriamente esse é um trabalho totalmente baseado no DeepCubeA que pode ser econtrado no endereço https://git.codeocean.com/capsule-5723040.git
 
+
+Caso tenha vindo a esse projeto para consutlar o script de criação do estado auxiliar X, ele está na raiz do projeto com o nome de *`CreateX.py`* .
+
 Em um futuro breve tudo será mais bem explicado, mas por enquanto irei demonstrar como fazer o DeepCubeA rodar e reproduzir os dados apresentados no artigo.
 
 ## SetUp 
